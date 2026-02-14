@@ -39,7 +39,7 @@
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeRamirez25&theme=default)](#)
 
-[![](https://github-readme-stats-m.vercel.app/api/top-langs/?username=JeRamirez25&card_width=700)](https://github.com/JeRamirez25/github-readme-stats)
+[![](https://github-readme-stats-m.vercel.app/api/top-langs/?username=JeRamirez25&card_width=700&langs_count=4)](https://github.com/JeRamirez25/github-readme-stats)
 
 ---
 
